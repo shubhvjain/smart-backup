@@ -60,4 +60,7 @@ target/
 scratch/
 
 # Misc
-.DS_Store
+.DS_Storee
+
+# log file used in code
+logs.json
